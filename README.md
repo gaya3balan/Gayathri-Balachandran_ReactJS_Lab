@@ -4,7 +4,7 @@ Did not upload node_modules in client and server due to size. Please follow belo
 
 Instructions for Running React Graded Lab
 
-1. Go to github : https://github.com/gaya3balan/GayathriBalachandran_ReactJS_Lab and Download zip
+1. Go to github : https://github.com/gaya3balan/Gayathri-Balachandran_ReactJS_Lab and Download zip
 2. Open project in VS CODE and open a terminal for client-> 
 
 cd Gayathri-Balachandran_ReactJS_Lab-master\React-Lab\client\expense-tracker
